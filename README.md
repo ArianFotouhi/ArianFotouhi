@@ -72,7 +72,7 @@
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ArianFotouhi&" alt="ArianFotouhi" />
 </div>
 
-
+---
 <div>
 👉 This README file is available through [this link](https://github.com/ArianFotouhi/ArianFotouhi). Feel Free to use it to for your account.
 </div>
