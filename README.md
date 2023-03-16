@@ -78,4 +78,5 @@
 
 <div>
 👉 You can create a similar README file by the [Link](https://raw.githubusercontent.com/ArianFotouhi/ArianFotouhi/main/README.md)
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
 </div>
