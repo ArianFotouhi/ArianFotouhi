@@ -39,7 +39,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![FastAPI]([https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi](https://img.shields.io/badge/Blockchain-121D33 logo=blockchaindotcom&logoColor=fff&style=for-the-badge))
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33 logo=blockchaindotcom&logoColor=fff&style=for-the-badge))
 
 ##### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -71,5 +71,8 @@
   
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ArianFotouhi&" alt="ArianFotouhi" />
 </div>
+
+
+
 
 👉 This README file is available through [this link](https://github.com/ArianFotouhi/ArianFotouhi). Feel Free to use it to for your account.
