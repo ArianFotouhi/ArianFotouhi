@@ -72,10 +72,10 @@
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ArianFotouhi&" alt="ArianFotouhi" />
 </div>
 
----
----
----
-----
+***
+***
+***
+
 <div>
-👉 You can create a similar README file by the [Link](https://raw.githubusercontent.com/ArianFotouhi/ArianFotouhi/main/README.md).
+👉 You can create a similar README file by the [Link](https://raw.githubusercontent.com/ArianFotouhi/ArianFotouhi/main/README.md)
 </div>
