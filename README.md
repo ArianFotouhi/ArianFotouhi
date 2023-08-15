@@ -77,6 +77,5 @@
 ***
 ***
 ***
-👉 You can create a similar README file by the following [Link](https://raw.githubusercontent.com/ArianFotouhi/ArianFotouhi/main/README.md)
 
 
