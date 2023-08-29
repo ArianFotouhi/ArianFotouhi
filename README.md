@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:arianfotouhi7@gmail.com)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=http://arianfotouhi.s3-website.ca-central-1.amazonaws.com/)](https://www.arianfotouhi.com/)
-[![Github](https://img.shields.io/github/followers/ArianFotouhi?label=Follow&style=social)](https://github.com/ArianFotouhi)
+
 
 
 - 👨🏻‍🎓 I received my M.Sc. degree in Computer Engineering from Concordia University. 
