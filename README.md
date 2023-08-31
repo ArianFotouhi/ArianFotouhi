@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/arian.fotouhi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:arianfotouhi7@gmail.com)
-[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=http://arianfotouhi.s3-website.ca-central-1.amazonaws.com/)](https://www.arianfotouhi.com/)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://www.arianfotouhi.com/)](https://www.arianfotouhi.com/)
 
 
 
