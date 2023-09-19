@@ -1,6 +1,5 @@
 <p align="center" >
-<img src="https://readme-typing-svg.demolab.com?font=Martel&weight=800&size=25&duration=2500&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&multiline=true&width=435&height=100&lines=This+is+Arian+;AI+Software+Developer" alt="Typing SVG" />
-
+<a href="https://www.arianfotouhi.com"><img src="https://readme-typing-svg.demolab.com?font=Martel&weight=800&size=25&duration=2500&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&multiline=true&width=435&height=100&lines=This+is+Arian+;AI+Software+Developer" alt="" /></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArianFotouhi&count_bg=%23012C6A&title_bg=%2347A3FF&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arian-fotouhi/)
