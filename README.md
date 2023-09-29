@@ -11,8 +11,8 @@
 
 
 - 👨🏻‍🎓 I received my M.Sc. degree in Computer Engineering from Concordia University. 
-- 🖥️ My research interests are machine learning, deep learning and web development. 
-- 📱 In fact, I am pretty motivated to design deep learning/machine learning models for NLP and computer vision purposes then represent them as web/docker applications where I mostly use Python for back-end and React/Angular for front-end.
+- 🖥️ My fields of interest are machine learning, deep learning and software engineering. 
+- 📱 I am pretty motivated to work with AI models (LLMs, predictive models, object detection, etc.) and deploy them as web/mobile applications.
 
 
 ### ⚙️ Stack
