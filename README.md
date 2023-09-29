@@ -68,6 +68,7 @@
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianFotouhi\&layout=donut)](https://github.com/ArianFotouhi/ArianFotouhi)
+[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ArianFotouhi&)
 
 
 <div>
