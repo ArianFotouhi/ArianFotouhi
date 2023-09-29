@@ -67,9 +67,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianFotouhi\&layout=donut)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianFotouhi\&layout=donut-vertical)](https://github.com/ArianFotouhi/ArianFotouhi)
-
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ArianFotouhi&)
 
 
