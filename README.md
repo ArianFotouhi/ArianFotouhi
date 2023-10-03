@@ -69,6 +69,7 @@
 ### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianFotouhi&theme=dark&border_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianFotouhi&theme=dark\&layout=donut-vertical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArianFotouhi&theme=dark&border_radius=5&card_width=500)
 
