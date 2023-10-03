@@ -67,7 +67,10 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianFotouhi\&layout=donut-vertical)](https://github.com/ArianFotouhi/ArianFotouhi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianFotouhi\&layout=donut-vertical)](https://github.com/ArianFotouhi/ArianFotouhi
+'https://github-readme-stats.vercel.app/api/top-langs/?username=ArianFotouhi&theme=dark&border_icons=true&hide_border=true&layout=compact')
+<img width=400 src= />
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArianFotouhi&theme=dark&border_radius=5&card_width=500)](https://git.io/streak-stats)
 
 
