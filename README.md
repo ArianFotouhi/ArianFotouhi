@@ -9,7 +9,7 @@
 
 
 
-- 👨🏻‍🎓 I received my M.Sc. degree in Computer Engineering 
+- 👨🏻‍🎓 I received my M.Sc. degree in Computer Engineering.
 - 🖥️ My fields of interest are machine learning, deep learning and software engineering. 
 - 📱 I am pretty motivated to work with AI models (LLMs, predictive models, object detection, etc.) and deploy them as web/mobile applications.
 
