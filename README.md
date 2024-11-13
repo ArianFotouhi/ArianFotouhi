@@ -11,7 +11,7 @@
 
 - 👨🏻‍🎓 M.Sc. degree in Computer Engineering.
 - 🖥️ My fields of interest are machine learning, deep learning and software engineering. 
-- 📱 I am pretty motivated to work with AI models (LLMs, predictive models, object detection, etc.) and deploy them as web/mobile applications.
+- 📱 I am pretty motivated to work with LLMs and AI models as well as deploying them for web/mobile applications.
 
 
 ### ⚙️ Stack
