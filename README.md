@@ -24,7 +24,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![Langchain](https://img.shields.io/badge/Langchain-%23white.svg?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-4A4A55?style=for-the-badge&logo=openai)
-![Hugging-Face](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
+![Hugging-Face](https://img.shields.io/badge/-HuggingFace-3B4252?style=for-the-badge&logo=huggingface&logoColor=)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FD3A5C?style=for-the-badge)
 
