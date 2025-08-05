@@ -26,7 +26,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-4A4A55?style=for-the-badge&logo=openai)
 ![Hugging-Face](https://img.shields.io/badge/-HuggingFace-3B4252?style=for-the-badge&logo=huggingface&logoColor=)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-FD3A5C?style=for-the-badge)
+![Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 
 ##### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
