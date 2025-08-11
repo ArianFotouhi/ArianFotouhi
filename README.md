@@ -9,7 +9,7 @@
 
 
 - 👨🏻‍🎓 M.Sc. degree in Computer Engineering.
-- 🖥️ My fields of interest are Generative AI, Software Engineering and MLOps. 
+- 🖥️ Working on Generative AI, Software Engineering and MLOps. 
 
 
 ### ⚙️ Stack
